@@ -1,1 +1,1 @@
-# React project for educational purpose only. 
+# React projects for educational purpose only. 
